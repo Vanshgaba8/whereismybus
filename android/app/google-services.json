@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "529245015711",
+    "project_id": "bustrack-342b4",
+    "storage_bucket": "bustrack-342b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529245015711:android:d8be10d1bd47a39dc49caa",
+        "android_client_info": {
+          "package_name": "com.example.mybusapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqWRF-nR_7GdzxsLaJDKeURl1BmTQxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529245015711:android:fe7f090aedf2fabdc49caa",
+        "android_client_info": {
+          "package_name": "com.example.trialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqWRF-nR_7GdzxsLaJDKeURl1BmTQxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529245015711:android:5e35e85cbf39fe15c49caa",
+        "android_client_info": {
+          "package_name": "com.example.whereismybus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqWRF-nR_7GdzxsLaJDKeURl1BmTQxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
